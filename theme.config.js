@@ -23,6 +23,7 @@ export default {
     </>
   ),
   search: true,
+  unstable_flexsearch: true,
   prevLinks: true,
   nextLinks: true,
   footer: true,
